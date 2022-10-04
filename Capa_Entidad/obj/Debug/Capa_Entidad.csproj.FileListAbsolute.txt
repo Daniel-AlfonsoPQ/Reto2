@@ -1,0 +1,6 @@
+C:\Users\PC DanielAlf\Desktop\Universidad\Semestre 6\Bases de datos\BD corte3\Reto2\Reto2_BibliotecaEAN\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\PC DanielAlf\Desktop\Universidad\Semestre 6\Bases de datos\BD corte3\Reto2\Reto2_BibliotecaEAN\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\PC DanielAlf\Desktop\Universidad\Semestre 6\Bases de datos\BD corte3\Reto2\Reto2_BibliotecaEAN\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\PC DanielAlf\Desktop\Universidad\Semestre 6\Bases de datos\BD corte3\Reto2\Reto2_BibliotecaEAN\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\PC DanielAlf\Desktop\Universidad\Semestre 6\Bases de datos\BD corte3\Reto2\Reto2_BibliotecaEAN\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\PC DanielAlf\Desktop\Universidad\Semestre 6\Bases de datos\BD corte3\Reto2\Reto2_BibliotecaEAN\Capa_Entidad\obj\Debug\Capa_Entidad.pdb

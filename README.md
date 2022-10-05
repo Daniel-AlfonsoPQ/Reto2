@@ -1,6 +1,6 @@
 <h2 style="text-align: center;"><span style="color: #339966;"><strong>ALMACENAMIENTO BIBLIOTECA EAN</strong></span></h2>
 <p><span style="color: #000000;"><strong>1. Agregar libro:</strong></span></p>
-<p><span style="color: #000000;"><strong><img src="ImagenesREADME/InterfazPrincipal.png" alt="Interfaz Principal" width="400" height="400" /></strong></span></p>
+<p><span style="color: #000000;"><strong><img src="ImagenesREADME/InterfazPrincipal.png" alt="Interfaz Principal" width="600" height="400" /></strong></span></p>
 <p><span style="color: #000000;"><strong>Interfaz dise&ntilde;ada para la Biblioteca de la Universidad EAN.</strong></span></p>
 <p>&nbsp;</p>
 <p><span style="color: #000000;"><strong><img src="ImagenesREADME/Inputs registro.png" alt="Inputs para el registro del libro" width="400" height="400" /></strong></span></p>

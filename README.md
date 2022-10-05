@@ -25,10 +25,9 @@
 <p>&nbsp;</p>
 <p>Vemos que se elimina el libro ciber-seguridad</p>
 
-<p><strong>3. Buscar libro:</strong></p>
+<p><strong>4. Buscar libro:</strong></p>
 <p><strong><img src="ImagenesREADME/Buscar.png" alt="Selecci&oacute;n del libro a buscar" width="600" height="500" /></strong></p>
 <p>&nbsp;</p>
 <p>Con solo digitar la primera letra del titulo del libro, este aparece en la consulta.</p>
-<p><img src="ImagenesREADME/LibroEliminado.png" alt="Libro Eliminado"  width="600" height="500"/></p>
 <p>&nbsp;</p>
 <p>Observamos que con escribir 'Qui' es suficiente para que encuentre el libro Quimica</p>
